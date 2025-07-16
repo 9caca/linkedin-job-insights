@@ -1,0 +1,14 @@
+# Ambientes virtuais
+.venv/
+env/
+
+# Configurações do VSCode (opcional)
+.vscode/
+
+# Dados temporários
+__pycache__/
+*.pyc
+
+# Dados sensíveis
+.env
+*.json
